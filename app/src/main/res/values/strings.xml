@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">jsonPractice</string>
+
+
+    <string-array name="Quetions">
+        <item>contries</item>
+        <item>StateofIndia</item>
+        <item>employee</item>
+        <item>User</item>
+        <item>Colors</item>
+    </string-array>
+</resources>
